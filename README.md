@@ -3,7 +3,7 @@
 
 ![image](preview.png)  
 
-[Демо-страница](https://green.com/)  
+[Демо-страница](https://example.com/)  
 
 * Чистый HTML/CSS/JS  
 * Реплика стиля и анимации экрана входа Windows 10  
