@@ -1,12 +1,12 @@
-# Windows-10-Login-Webpage
-A basic full screen responsive web page with a Windows 10 login style
+# Windows-10-Login-Webpage  
+Базовая полноэкранная адаптивная веб-страница в стиле экрана входа Windows 10  ✅
 
-![image](preview.png)
+![image](preview.png)  
 
-[Demo Page](https://hakuame.github.io/Windows-10-Login-Webpage/)
+[Демо-страница](https://green.com/)  
 
-* Pure HTML/CSS/JS
-* Replicate of Windows 10 Login style and animation
-* Full screen reponsive
+* Чистый HTML/CSS/JS  
+* Реплика стиля и анимации экрана входа Windows 10  
+* Полноэкранная и адаптивная  
 
-This webpage only has some basic functions that I want. Feel free to imporve it and make it your own.
+Эта веб-страница содержит только базовые функции, которые мне нужны. Не стесняйтесь улучшать её и делать своей.  
