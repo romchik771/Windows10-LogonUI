@@ -3,7 +3,7 @@
 
 ![image](preview.png)  
 
-[Демо-страница](https://example.com/)  
+[Демо-страница](https://romchik771.github.io/Windows10-LogonUI/)  
 
 * Чистый HTML/CSS/JS  
 * Реплика стиля и анимации экрана входа Windows 10  
